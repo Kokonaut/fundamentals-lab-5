@@ -1,4 +1,4 @@
-# Lab 4: Basic Tower Defense
+# Lab 5: Basic Tower Defense
 
 ## Intro
 This week, we will be dealing with different tower types and writing functions to differentiate our different towers' attacks. 
